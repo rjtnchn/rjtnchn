@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=pixel&color=0:1a1a1a,100:4d4d4d&height=160&section=header&text=RAOLO&fontSize=42&fontColor=e0e0e0&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:1a1a1a,100:4d4d4d&height=160&section=header&text=RAOLO&fontSize=42&fontColor=e0e0e0&fontAlignY=40&reversal=false&animation=fadeIn)
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=999999&background=00000000&center=true&vCenter=true&width=560&lines=Laravel+%2B+React+%2B+MySQL;Building+one+block+at+a+time" alt="typing-svg" />
 
@@ -8,14 +8,14 @@
 
 <br>
 
-## `PS> whoami`
+## `C:\> whoami`
 ```
 CS student · Project Lead · 5-player party
 Currently mining through: full-stack scaffolding
 Current build: StokKrate — Inventory Management System
 ```
 
-## `PS> Get-Content current_project.log`
+## `C:\> type current_project.log`
 ```
 StokKrate
   stack     : Laravel API · React (Vite) · MySQL
@@ -24,12 +24,12 @@ StokKrate
   workflow  : Gitflow — develop / feature branches
 ```
 
-## `PS> echo $env:LEARNING`
+## `C:\> echo %LEARNING%`
 ```
 Mainly backend dev, with AppSec fundamentals (OWASP Top 10) and system design alongside
 ```
 
-## `PS> Get-ChildItem tech_stack/`
+## `C:\> dir tech_stack\`
 <div align="left">
 
 ![Laravel](https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=laravel&logoColor=white)
@@ -42,13 +42,13 @@ Mainly backend dev, with AppSec fundamentals (OWASP Top 10) and system design al
 
 </div>
 
-## `PS> .\run_stats.ps1`
+## `C:\> run_stats.bat`
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=rjtnchn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=cccccc&text_color=999999&icon_color=cccccc" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjtnchn&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=333333&ring=cccccc&fire=cccccc&currStreakLabel=cccccc" height="165"/>
 </div>
 
-## `PS> .\metrics.ps1 -Render`
+## `C:\> metrics.bat /render`
 <div align="left">
 
 <!--START_SECTION:metrics-->
@@ -57,26 +57,26 @@ Mainly backend dev, with AppSec fundamentals (OWASP Top 10) and system design al
 
 </div>
 
-## `PS> .\build_map.ps1 -Dimension 3d`
+## `C:\> build_map.bat /dimension 3d`
 <div align="left">
 
 <img src="https://raw.githubusercontent.com/rjtnchn/rjtnchn/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d-contrib" />
 
 </div>
 
-## `PS> Get-Content activity.log -Wait`
+## `C:\> type activity.log`
 <div align="left">
 
 ![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=rjtnchn&theme=github-compact&bg_color=0d0d0d&color=cccccc&line=999999&point=ffffff&hide_border=true)
 
 </div>
 
-## `PS> .\snake.ps1 -Grid contribution`
+## `C:\> snake.bat contribution`
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/rjtnchn/rjtnchn/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 <!--END_SECTION:snake-->
 
-## `PS> .\connect.ps1 -List`
+## `C:\> connect.bat /list`
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rjtnchn)
@@ -95,6 +95,6 @@ Mainly backend dev, with AppSec fundamentals (OWASP Top 10) and system design al
 [ x . y . z ]  world saved.
 ```
 
-![footer](https://capsule-render.vercel.app/api?type=pixel&color=0:1a1a1a,100:4d4d4d&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:1a1a1a,100:4d4d4d&height=100&section=footer&reversal=false&animation=fadeIn)
 
 </div>
