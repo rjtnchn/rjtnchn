@@ -8,7 +8,7 @@
 +---------------------------------------------------------------+
 ```
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=560&lines=Laravel+%2B+React+%2B+MySQL;Building+one+block+at+a+time;Hardcore+Mode+%3A+ON" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=560&lines=I+don't+know+anything;I+only+know+what+I+know;" alt="typing-svg" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=6&section=header" width="100%"/>
 
